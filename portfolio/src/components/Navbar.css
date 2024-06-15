@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Oranienbaum&display=swap");
+
+.navbar {
+    font-family: "Oranienbaum", serif;
+    font-size: 1.5rem;
+    width: 100%;
+    margin-top: 0%;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: justify-between;
+    align-items: center;
+    background-color: rgb(143, 183, 209);
+    position: fixed;
+    z-index: 1;
+    height: 8%;
+  }
+
+.rightSide {
+  color: white;
+  }
