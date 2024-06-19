@@ -35,7 +35,7 @@ function App() {
               <img className="w-20" src="./node_js.png" />
               <img className="w-20" src="./mongodb.png" />
               <img className="w-20" src="./mysql.png" />
-              <img className="w-20" src="./next_js.png" />
+              <img className="w-20" src="./nest_js.png" />
               <img className="w-20" src="./material-ui.png" />
               <img className="w-20" src="./git.png" />
               <img className="w-20" src="./flutter.png" />
