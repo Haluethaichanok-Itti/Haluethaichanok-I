@@ -6,7 +6,7 @@ body{
   
  }
  .custom-profile-bg {
-  background-image: url('./sky.jpeg');
+  background-image: url('../public/sky.jpeg');
   background-repeat: repeat-x;
   background-position: 10px 0px;
 }
